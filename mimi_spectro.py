@@ -1,5 +1,3 @@
-**This code is a mix of examples from [blog] (https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d) & [Librosa package site] (https://librosa.org/)**
-
 
 import os
 import librosa
